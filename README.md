@@ -42,7 +42,7 @@ E-commerce/
 
 * JavaScript (Vanilla) – Interactivity and dynamic content
 
-```
+---
 
 ## 📜 License
 
