@@ -34,6 +34,15 @@ E-commerce/
 │── .gitignore         # Ignored files for Git
 
 ```
+🛠️ Technologies Used
+
+* HTML5 – Structure and content
+
+* CSS3 – Styling and layout
+
+* JavaScript (Vanilla) – Interactivity and dynamic content
+
+```
 
 ## 📜 License
 
