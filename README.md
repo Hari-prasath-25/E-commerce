@@ -33,6 +33,7 @@ E-commerce/
 │── LICENSE            # License file
 │── .gitignore         # Ignored files for Git
 
+
 ```
 🛠️ Technologies Used
 
