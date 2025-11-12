@@ -19,21 +19,6 @@ A responsive and user-friendly e-commerce website built using HTML, CSS, and Jav
 
 ---
 
-📂 Project Structure
-
-```
-E-commerce/
-│── index.html         # Home Page
-│── shop.html          # Shop Page
-│── sproduct.html      # Single Product Page
-│── cart.html          # Cart Page
-│── blog.html          # Blog Page
-│── style.css          # Stylesheet
-│── script.js          # JavaScript functionality
-│── LICENSE            # License file
-│── .gitignore         # Ignored files for Git
-
-```
 🛠️ Technologies Used
 
 * HTML5 – Structure and content
@@ -41,12 +26,6 @@ E-commerce/
 * CSS3 – Styling and layout
 
 * JavaScript (Vanilla) – Interactivity and dynamic content
-
----
-
-## 📜 License
-
-This project is **open-source** under the **MIT License**.
 
 ---
 
