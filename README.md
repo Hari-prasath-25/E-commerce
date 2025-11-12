@@ -33,6 +33,3 @@ A responsive and user-friendly e-commerce website built using HTML, CSS, and Jav
 
 For feature requests, queries, or contributions:
 📧 **[haridharmaraj2128@gmail.com](mailto:haridharmaraj2128@gmail.com)**
-
----
-
